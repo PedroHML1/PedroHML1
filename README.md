@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  - 💬 Ask me about Angular, VueJS
+  - 💬 Ask me about HTML, CSS, Java Script, Python...
 </div>
 <div>
   - 📫 How to reach me: https://www.linkedin.com/in/pedro-marques-230b28224/
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his/ele/dele
   </div>
   <div>
-- ⚡ Fun fact: I got a reverse block first time I did scuba diving xD
+- 🌱 I’m currently learning a little bit of everything
 </div>
 </br>
 </br>
