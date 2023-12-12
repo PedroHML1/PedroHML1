@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--
-**diogrocarvalho/diogrocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PedroHML1/PedroHML1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - 💬 Ask me about Angular, VueJS
 </div>
 <div>
-  - 📫 How to reach me: https://www.linkedin.com/in/dcarvalhodev/
+  - 📫 How to reach me: https://www.linkedin.com/in/pedro-marques-230b28224/
   </div>
   <div>
 - 😄 Pronouns: he/his/ele/dele
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 </br>
 </br>
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogrocarvalho&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogrocarvalho&layout=compact&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHML1&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHML1&layout=compact&theme=tokyonight"/>
 </div>
