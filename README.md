@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  - 💬 Ask me about HTML, CSS, Java Script, Python...
+  - 💬 Ask me about HTML, CSS, Java Script, Python, WordPress...
 </div>
 <div>
   - 📫 How to reach me: https://www.linkedin.com/in/pedro-marques-230b28224/
